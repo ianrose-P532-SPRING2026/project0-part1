@@ -1,4 +1,4 @@
-package project0.part1.animalsim;
+package animalsim;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

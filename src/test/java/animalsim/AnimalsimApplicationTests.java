@@ -1,4 +1,4 @@
-package project0.part1.animalsim;
+package animalsim;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
